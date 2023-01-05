@@ -1,8 +1,8 @@
 {
-    "name": "ozdemirburak/skyscanner-php",
+    "name": "ibrahimch/skyscanner-php",
     "description": "Unofficial PHP SDK for Skyscanner's API",
     "keywords": ["skyscanner", "skyscanner-api", "flight", "travel", "trip", "car hire", "hotels"],
-    "homepage": "https://github.com/ozdemirburak/skyscanner-php",
+    "homepage": "https://github.com/ibrahimch/skyscanner-php",
     "license": "MIT",
     "authors": [
         {
